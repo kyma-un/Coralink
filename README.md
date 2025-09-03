@@ -5,7 +5,7 @@ Coralink es una propuesta de desarrollo enfocada en crear un dispositivo capaz d
 ## Alcance: 
 Este dispositivo tiene como finalidad llegar a ser usado por personas a quienes se requiera monitorear remotamente para saber su estado actual así como verificar que no hayan sufrido accidentes en el hogar, como pueden ser personas en condición de discapacidad o adultos mayores. Aunque se pensó inicialmente medir saturación y ritmo cardíaco, así como notificar en caso de caída, no se descarta el implementar más sensores a fin de mejorar el monitoreo del usuario.
 
-##Objetivo general: 
+## Objetivo general: 
 Monitorear de manera efectiva diversas variables corporales que indiquen la estabilidad del usuario que porta el dispositivo.
 
 ## Objetivo específico: 
